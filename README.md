@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build an Algorand Web Wallet Interface Using Reach and React to Connect to My Algo Wallet and AlgoSigner
 ![cover](https://user-images.githubusercontent.com/23031920/142118845-f9b4ac55-7287-4379-b20f-f7c7b4cfb47d.png)
 
@@ -54,3 +55,33 @@ This project is not audited and should not be used in a production environment.
 
 
 
+=======
+**algorand-reach-dapp**
+
+Coursework for CN6035: Mobile and Distributed Systems  
+Decentralized Application (DApp) using Algorand + Reach + React
+
+
+**Overview**
+
+This project is a decentralized application built using:
+- **Reach** for smart contract development on the Algorand blockchain
+- **React** for the front-end
+- **MyAlgoWallet** for wallet connection
+
+The app demonstrates full-stack blockchain interaction, including:
+- Smart contract deployment and method calls
+- Wallet integration and transaction signing
+- On-chain state management
+
+
+## Installation Manual 
+
+### 1. Prerequisites
+
+Ensure the following are installed:
+- [Node.js (v18+)](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [Git](https://git-scm.com/)
+- [Reach](https://docs.reach.sh/tut-1.html#install-reach)
+>>>>>>> bffe53402c3dafc6805ff86394290fe3542ae06f
